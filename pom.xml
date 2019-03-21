@@ -15,6 +15,14 @@
 
 
     <dependencies>
+        <!--Project Begin-->
+        <dependency>
+            <groupId>com.bug</groupId>
+            <artifactId>itoken-common</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <!--Project End-->
+
         <!-- Spring Boot Begin -->
         <dependency>
             <groupId>com.alibaba</groupId>
